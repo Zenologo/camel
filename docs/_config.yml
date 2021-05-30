@@ -2,8 +2,5 @@
 title: 我的文档 Test Theme
 lang: en
 description: Write an awesome description for your new site here
-
-theme: jekyll-rtd-theme
-
-#remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: rundocs/jekyll-rtd-theme
 
