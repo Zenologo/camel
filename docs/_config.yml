@@ -1,5 +1,5 @@
-#theme: jekyll-theme-architect
-remote_theme: rundocs/jekyll-rtd-theme
+
 title: jekyll-rtd-theme
 description: Just another documentation theme compatible with GitHub Pages
+remote_theme: rundocs/jekyll-rtd-theme
 
