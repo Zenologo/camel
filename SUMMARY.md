@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Camel](README.md)
-* [docs]
+* [简介](README.md)
+* Content
   * [Welcome to GitHub Pages](docs/index/1st-file/md)
   * [It's my send file](docs/index/2en-file.md)
     * [It's my 3end file](docs/index/3en-file.md)
