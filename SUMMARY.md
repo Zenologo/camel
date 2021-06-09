@@ -9,8 +9,9 @@
 ## Project BOX
 
 * [简介](project-box/jian-jie.md)
-* [客户WEB功能介绍](project-box/ke-hu-web-gong-neng-jie-shao.md)
-* [管理WEB功能介绍](project-box/guan-li-web-gong-neng-jie-shao.md)
+* [平台界面功能](project-box/ke-hu-web-gong-neng-jie-shao.md)
+* [用户管理界面功能](project-box/yong-hu-guan-li-jie-mian-gong-neng.md)
+* [管理员界面功能](project-box/guan-li-web-gong-neng-jie-shao.md)
 * [接口手册](project-box/jie-kou-shou-ce.md)
 
 ## PROJECT LGC
