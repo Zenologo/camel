@@ -56,9 +56,13 @@
 
 搜索：单号，收件人，发件人，邮编，国家, 时间
 
+如果企业客户就显示 REF. Commende, REF. Client
 
+如果个人就显示备注
 
 ### Annullées
+
+
 
 ### Recherche
 
@@ -69,6 +73,8 @@
 ### Profil
 
 ### Facutres
+
+每月统计一次。
 
 ### Paramètres d'envoi
 
